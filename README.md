@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😛
-**Evex12324** 🚀
-
+**Meu nome é Pedro de Carvalho** 🚀
+**Sou programador FullStack na área de websites**
+**Tenho 16 anos e estou há 4 anos aperfeiçoando minha programação**
+**Espero que se divirta conferindo meus repositórios** 😆
 
  <div>
    <a href="https://github.com/Evex12324">
