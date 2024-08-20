@@ -6,8 +6,8 @@
 ## Meu Status 🤭
  <div>
    <a href="https://github.com/Evex12324">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evex12324&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evex12324&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evex12324&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evex12324&layout=compact&langs_count=6&theme=moltack"/>
 
    </div>
 <div style="display: inline_block"><br>
