@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao meu perfil
-- Sou programador FullStack na área de websites 🚀
-- Tenho 16 anos e estou há 5 anos aperfeiçoando minha programação
-- Espero que ache algo de interesse conferindo meus repositórios
+- Esta conta não está mais sendo utilizada, para acessar a nova conta, acesse:
 
 ## Meu Status
  <div>
