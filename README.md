@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao meu perfil
-- Esta conta não está mais sendo utilizada, para acessar a nova conta, acesse:
+## Esta conta não está mais sendo utilizada, para acessar a nova conta, acesse:
+- https://github.com/Godinho12324
 
 ## Meu Status
  <div>
@@ -14,12 +14,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Excel" height="42" width="40" src="https://img.icons8.com/?size=256&id=UECmBSgBOvPT&format=png">
   <img align="center" alt="Scratch" height="44" width="42" src="https://img.icons8.com/?size=48&id=b8sdBSRPX1RX&format=png">
-</div>
-
-### Pra mais conteúdo sobre programação segue abaixo as redes sociais!
- 
-<div> 
-  <a href="https://www.instagram.com/evex12324_developer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:evex12324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
